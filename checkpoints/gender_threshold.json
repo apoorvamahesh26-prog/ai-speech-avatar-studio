@@ -1,0 +1,4 @@
+{
+  "female_probability_threshold": 0.4735131561756134,
+  "note": "female_prob >= this value -> predict female, else male. Replaces naive argmax (0.5) to correct class-recall imbalance measured on the validation set."
+}
